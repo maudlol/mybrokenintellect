@@ -1,0 +1,324 @@
+{
+    "isabelle": "version 0.0.1",
+    "author": "6xzkareemm",
+    "Visuals": {
+        "Enemy": {
+            "Enabled": true,
+            "Box": true,
+            "Name": false,
+            "Distance": false,
+            "Chams": false,
+            "Health Bar": true,
+            "Head Dot": false,
+            "Tracers": false,
+            "Tracers Position": 0,
+            "Name Color": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0,
+                "W": 1.0
+            },
+            "Distance Color": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0,
+                "W": 1.0
+            },
+            "Box Color": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0,
+                "W": 1.0
+            },
+            "Tracer Color": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0,
+                "W": 1.0
+            },
+            "Head Dot Color": {
+                "X": 0.529411792755127,
+                "Y": 0.2823529541492462,
+                "Z": 0.2823529541492462,
+                "W": 0.3921568989753723
+            },
+            "Chams Color": {
+                "X": 0.41960787773132324,
+                "Y": 0.2823529541492462,
+                "Z": 0.529411792755127,
+                "W": 0.3921568989753723
+            },
+            "Health Bar Color 1": {
+                "X": 0.41960787773132324,
+                "Y": 0.2823529541492462,
+                "Z": 0.529411792755127,
+                "W": 1.0
+            },
+            "Health Bar Color 2": {
+                "X": 0.529411792755127,
+                "Y": 0.4078431725502014,
+                "Z": 0.2823529541492462,
+                "W": 1.0
+            }
+        },
+        "Teammate": {
+            "Enabled": false,
+            "Box": false,
+            "Name": false,
+            "Distance": false,
+            "Chams": false,
+            "Health Bar": false,
+            "Head Dot": false,
+            "Tracers": false,
+            "Tracers Position": 0,
+            "Name Color": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0,
+                "W": 1.0
+            },
+            "Distance Color": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0,
+                "W": 1.0
+            },
+            "Box Color": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0,
+                "W": 1.0
+            },
+            "Tracer Color": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0,
+                "W": 1.0
+            },
+            "Head Dot Color": {
+                "X": 0.529411792755127,
+                "Y": 0.2823529541492462,
+                "Z": 0.2823529541492462,
+                "W": 1.0
+            },
+            "Chams Color": {
+                "X": 0.41960787773132324,
+                "Y": 0.2823529541492462,
+                "Z": 0.529411792755127,
+                "W": 0.3921568989753723
+            },
+            "Health Bar Color 1": {
+                "X": 0.41960787773132324,
+                "Y": 0.2823529541492462,
+                "Z": 0.529411792755127,
+                "W": 1.0
+            },
+            "Health Bar Color 2": {
+                "X": 0.529411792755127,
+                "Y": 0.4078431725502014,
+                "Z": 0.2823529541492462,
+                "W": 1.0
+            }
+        },
+        "Gradient Health Bar": false,
+        "Use Display Name": false,
+        "Dead Chams": {
+            "Enabled": false,
+            "Color": {
+                "X": 0.529411792755127,
+                "Y": 0.2823529541492462,
+                "Z": 0.2823529541492462,
+                "W": 0.3921568989753723
+            }
+        },
+        "Target Hat": {
+            "Enabled": false,
+            "Color": {
+                "X": 1.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            }
+        },
+        "Triggerbot Highlight": {
+            "Enabled": false,
+            "Color": {
+                "X": 1.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            }
+        },
+        "Silent Indicator": {
+            "Enabled": false,
+            "Color": {
+                "X": 1.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            }
+        },
+        "Render Distance": 10000.0,
+        "Flags": {
+            "Invisible Check": false
+        },
+        "Target HUD": {
+            "Enabled": false,
+            "Aimbot": {
+                "Enabled": false,
+                "X": 20,
+                "Y": 20
+            },
+            "Silent": {
+                "Enabled": false,
+                "X": -20,
+                "Y": -20
+            }
+        }
+    },
+    "Exploits": {
+        "Speed": {
+            "Enabled": false,
+            "Value": 0.0,
+            "Key": {
+                "Bind": 0,
+                "Type": 1
+            }
+        },
+        "Fly": {
+            "Enabled": false,
+            "Value": 10.0,
+            "Key": {
+                "Bind": 0,
+                "Type": 1
+            }
+        }
+    },
+    "Silent Aim": {
+        "Enabled": false,
+        "Key": {
+            "Bind": 69,
+            "Type": 0
+        },
+        "Silent FOV": 50,
+        "Hitchance": 100,
+        "Sticky Aim": false,
+        "Prediction": {
+            "Enabled": false,
+            "Method": 0,
+            "X": 1.0,
+            "Y": 1.0
+        },
+        "Closest Part To Mouse": false,
+        "Misc": {
+            "Spoof Mouse": false,
+            "FOV": {
+                "Show": false,
+                "Color 1": {
+                    "X": 0.529411792755127,
+                    "Y": 0.2823529541492462,
+                    "Z": 0.2823529541492462,
+                    "W": 1.0
+                },
+                "Color 2": {
+                    "X": 0.529411792755127,
+                    "Y": 0.2823529541492462,
+                    "Z": 0.2823529541492462,
+                    "W": 0.1568627506494522
+                }
+            }
+        }
+    },
+    "Aimbot": {
+        "Enabled": true,
+        "Key": {
+            "Bind": 5,
+            "Type": 0
+        },
+        "FOV": 120,
+        "Method": 1,
+        "Closest Part To Mouse": false,
+        "Mouse Smoothing": 0.0,
+        "Mouse Sensitivity": 1.0,
+        "Camera Smoothing": 1.0,
+        "Prediction": {
+            "Enabled": true,
+            "Method": 0,
+            "X": 16.75,
+            "Y": 14.550000190734863
+        },
+        "Hitbox": 0,
+        "Sticky Aim": true,
+        "Teamcheck": false,
+        "Healthcheck": false,
+        "Invisible Check": false,
+        "Misc": {
+            "Offset": {
+                "Enabled": false,
+                "X": 0,
+                "Y": 0
+            },
+            "FOV": {
+                "Show": true,
+                "Dynamic": false,
+                "Color 1": {
+                    "X": 0.41960787773132324,
+                    "Y": 0.2823529541492462,
+                    "Z": 0.529411792755127,
+                    "W": 1.0
+                },
+                "Color 2": {
+                    "X": 0.41960787773132324,
+                    "Y": 0.2823529541492462,
+                    "Z": 0.529411792755127,
+                    "W": 0.1568627506494522
+                }
+            },
+            "Snapline": {
+                "Enabled": true,
+                "Color": {
+                    "X": 1.0,
+                    "Y": 1.0,
+                    "Z": 1.0,
+                    "W": 1.0
+                }
+            }
+        }
+    },
+    "Triggerbot": {
+        "Enabled": false,
+        "Key": {
+            "Bind": 0,
+            "Type": 1
+        },
+        "Delay": 0.0,
+        "Scale": 0.10000000149011612,
+        "Release Delay": 0.0
+    },
+    "Settings": {
+        "Watermark": {
+            "Show": false,
+            "Position": 0
+        },
+        "Keybinds": false,
+        "Streamproof": false,
+        "Menu Key": {
+            "Enabled": false,
+            "Key": {
+                "Bind": 0,
+                "Type": 1
+            }
+        },
+        "Panic Key": {
+            "Enabled": false,
+            "Key": {
+                "Bind": 0,
+                "Type": 1
+            }
+        },
+        "Renderer Font": {
+            "Font": 0,
+            "Size": 12.0
+        }
+    }
+}
